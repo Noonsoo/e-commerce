@@ -1,5 +1,4 @@
-E-commerce App with Next.js and Wix Backend
-Description
+E-commerce App with Next.js and Wix Backend.
 This is a modern e-commerce application built with Next.js for the frontend and Wix library for the backend. The application allows users to browse products, add them to their cart, and proceed to checkout. The app is designed to provide a seamless and responsive shopping experience.
 
 Features
